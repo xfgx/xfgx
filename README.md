@@ -1,4 +1,4 @@
-### xfgx
+### About me
 
 Security researcher and tinkerer. Mostly bug bounties and AI agents, plus networking and the occasional Windows tool.
 
