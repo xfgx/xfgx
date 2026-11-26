@@ -1,8 +1,4 @@
-# Hey, I'm xfgx 👋
-
-I break things to see how they work, and then I build things that keep working where they're not supposed to.
-
-Most of my time goes into security research, AI agents, networking and poking around Windows internals. I'm mostly self-driven and curious about a lot of very different areas, so expect a mix.
+I do security research and build my own tools, mostly around AI agents, networking and Windows. I tend to jump between very different areas, so this profile is a bit of a mix.
 
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" alt="Go">
