@@ -1,4 +1,8 @@
-I do security research and build my own tools, mostly around AI agents, networking and Windows. I tend to jump between very different areas, so this profile is a bit of a mix.
+### xfgx
+
+Security researcher and tinkerer. Mostly bug bounties and AI agents, plus networking and the occasional Windows tool.
+
+Right now I'm building [Chameleon](https://github.com/xfgx/Chameleon-CITP-VPN), a VPN that keeps working where VPNs get blocked, and [ElasticMem](https://github.com/xfgx/ElasticMEM), a small RAM tool for Windows. Most recently I took part in the Swarm Alignment Hackathon with [a2a-gateway-audit](https://github.com/xfgx/a2a-gateway-audit).
 
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" alt="Go">
